@@ -1,6 +1,10 @@
 # install-name-tool
 Extracted tool from *Essentials.pkg* OS X Mavericks.
 
+# Binary versions from _otool_
+`  /usr/lib/libxcselect.dylib (compatibility version 1.0.0, current version 1.0.0)`  
+`  /usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1197.1.1)`  
+
 # Supported OS X
 * Yosemite
 * Mavericks
