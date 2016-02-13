@@ -13,6 +13,7 @@ Extracted tool from *Essentials.pkg* OS X Mavericks.
 
 # Install
 go to terminal and exec:  
+`cd ~`
 `git clone https://github.com/cinic/install-name-tool.git`   
 `cd install-name-tool`  
 `sudo mv install_name_tool /usr/bin/install_name_tool`   
